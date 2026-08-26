@@ -1752,6 +1752,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 <details>
 <summary><h3 style="display:inline">Development and Testing</h3></summary>
 
+- **[VoDaiLocz/kilo-kit-mcp](https://github.com/VoDaiLocz/kilo-kit-mcp)** - Comprehensive library of 177 curated skills paired with an MCP runtime enforcing protocol-level C4 workflow gates, hard-gated command execution with security guardrails, and 5 cognitive reasoning engines (Tree of Thoughts DAG, Adversarial Grilling, 5-Whys Root Cause Tracer, Context Compactor, Self-Evolution) for Claude Code, Cursor, Antigravity, and Codex
+
 - **[hedralab/eskill](https://github.com/hedralab/eskill)** - Meta-skill to build top-tier Agent Skills: spec-compliant SKILL.md, eval loop, validator, market research, numbered-file pipeline
 - **[robzolkos/skill-rails-upgrade](https://github.com/robzolkos/skill-rails-upgrade)** - Analyze Rails apps and provide upgrade assessments
 - **[antonbabenko/terraform-skill](https://github.com/antonbabenko/terraform-skill)** - Terraform and OpenTofu patterns: testing, modules, state, CI/CD.
