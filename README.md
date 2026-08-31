@@ -1770,6 +1770,7 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[muthuishere/hand-drawn-diagrams](https://github.com/muthuishere/hand-drawn-diagrams)** - Generate hand-drawn Excalidraw diagrams from a prompt — animated SVG, hosted edit link, and PNG export. Works with Claude Code, Codex, Gemini CLI, and any agent supporting standard skill paths
 - **[nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** - UI/UX design patterns and best practices
 - **[ehmo/platform-design-skills](https://github.com/ehmo/platform-design-skills)** - 300+ design rules from Apple HIG, Material Design 3, and WCAG 2.2 for cross-platform apps
+- **[Kayforkind/reimagine-it](https://github.com/Kayforkind/reimagine-it)** - Content-Derived Design CLI and agent skill: reads existing HTML and writes a stronger standalone page from nouns, dates, numbers, and colors already in the file
 - **[scarletkc/vexor](https://github.com/scarletkc/vexor)** - Vector-powered CLI for semantic file search with a Claude/Codex skill
 - **[obra/test-driven-development](https://github.com/obra/superpowers/blob/main/skills/test-driven-development/SKILL.md)** - Write tests before implementing code
 - **[obra/subagent-driven-development](https://github.com/obra/superpowers/blob/main/skills/subagent-driven-development/SKILL.md)** - Development using multiple sub-agents
